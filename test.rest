@@ -1,3 +1,5 @@
+// Use REST Client extension in VS Code to use this
+
 ###
 GET http://localhost:3000
 
